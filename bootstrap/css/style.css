@@ -1,0 +1,57 @@
+html{
+    scroll-behavior: smooth;
+}
+.fullscreen-landing{
+    background: url("../../images/Wallpaper-3-RedMagic.webp") no-repeat scroll center;
+    height: 100vh;
+    background-size: cover;
+}
+#head{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration:overline;
+}
+.overlay{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100%;
+}
+.search-box{
+    background: #000;
+    height: 50px;
+    width: 350px;
+}
+
+#t{
+   height: 500px;
+   width: 600px;
+}
+.subscribe-section{
+    background:  url("../../images/u.webp") no-repeat scroll center;
+    background-size: cover;
+    color: rgb(219, 36, 36);
+}
+.subscribe-overlay{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100%;
+}
+#cst{
+    background: url("../../images/u.webp") no-repeat scroll center;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.1);
+    color: rgb(255, 255, 255); text-shadow: 2px rgb(0, 0, 0);
+    
+}
+#wq{
+    background: url("../../images/oo.jpg") no-repeat scroll center;
+    background-size: cover; 
+}
+#exp{
+    background: url("../../images/z.jpg") no-repeat scroll center;
+    background-size: cover; 
+  
+}
+#fea{
+    background: url("../../images/pp.avif") no-repeat scroll center;
+    background-size: cover; 
+    /* height: 300px; */
+    background-color: rgba(0, 0, 0, 0.8);
+}
